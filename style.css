@@ -1,0 +1,28 @@
+body {
+  padding: 50px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+ul a {
+  background-color: blue;
+  display: inline-block;
+  text-decoration: none;
+  padding: 10px;
+  font-size: 20px;
+  color: white;
+  font-weight: bold;
+}
+
+.navbar {
+  max-width: 800px;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: between;
+}
